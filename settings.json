@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "femboygooner-O2rk.aternos.me:21735",
+    "ip": "femboygooner-O2rk.aternos.me",
     "port": 21735,
     "version": "1.21.11",
     "try-creative": false
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
